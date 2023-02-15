@@ -1,0 +1,5 @@
+#!/bin/bash
+COMMIIT_MESSAGE="My commit message"
+git add .
+git commit -m "$COMMIT_MESSAGE"
+git push
