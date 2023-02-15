@@ -1,4 +1,6 @@
 # Maker and Contributors 
 
-## Seun \n Brahim \n Samuel
+## Seun - Maker
+## Brahim - Co maker
+## Samuel - contributor
 
